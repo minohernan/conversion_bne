@@ -25,3 +25,7 @@ Homestead.json
 
 # Archivos CSV
 .csv
+
+# Ignorar carpetas
+salida/
+logs/
