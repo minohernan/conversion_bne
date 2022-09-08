@@ -14,6 +14,7 @@
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap-filestyle.js"></script>
+	<link rel="icon" type="image/ico" href="images/favicon.ico" />
 </head>
 <body>
 	<div class="container" style="margin-top: 30px;margin-bottom: 30px">
