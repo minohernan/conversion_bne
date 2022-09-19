@@ -1335,7 +1335,7 @@ SubOficial Mayor;Nunez Alejandro Fabian;8292;DNI: 20819619;Hombre;Creado por;403
 SubOficial Mayor;De la Cruz Ramon Walter;7966;DNI: 20819640;Hombre;Creado por;401409409323198;20208196406
 Comisario Mayor;Rolin Horacio Florindo;7842;DNI: 20819742;Hombre;Creado por;401409479622072;20208197429
 SubOficial Mayor;Do Santos Juan Carlos;7221;DNI: 20848094;Hombre;Creado por;401409478664648;20208480945
-Comisario Inspector;Ponce Carlos Marcelo;8192;DNI: 20889215;Hombre;Creado por;401400082833606;20208892151
+Comisario Inspector;Ponce Carlos Marcelo;8192;DNI: 20889215;Hombre;Creado por;401400082833606;20208992156
 Comisario Mayor;Soto Nestor Francisco;7356;DNI: 20896255;Hombre;Creado por;401409409323228;20208962559
 SubOficial Principal;Ruiz Diaz Elvio Omar;8099;DNI: 20896391;Hombre;Creado por;401409409323231;20208963911
 SubOficial Mayor;Alarcon Jorge Luis;8399;DNI: 20899063;Hombre;Creado por;401409488591345;20208990633
@@ -1577,7 +1577,7 @@ Comisario;Chelaliche Hilario Ariel;8354;DNI: 22597135;Hombre;Creado por;40140947
 Comisario;Olofsson Pedro Martin;8179;DNI: 22609531;Hombre;Creado por;401409487549563;20226095315
 SubOficial Mayor;Pineiro Ricardo Manuel;8303;DNI: 22616051;Hombre;Creado por;401409409326098;20226160516
 SubOficial Mayor;Schmidt Miguel Angel;8703;DNI: 22638453;Hombre;Creado por;401409409326128;20226384538
-Comisario;Lemes Ramon Norberto;7825;DNI: 22638562;Hombre;Creado por;401409409325440;20226385623
+Comisario;Lemes Ramon Norberto;7825;DNI: 22338562;Hombre;Creado por;401409409325440;20223385622
 Comisario Mayor;Ludtke Claudio Marcelo;8172;DNI: 22646862;Hombre;Creado por;401409520418843;20226468626
 Sargento Ayudante;Fernandez Carmelo Daniel;9078;DNI: 22649532;Hombre;Creado por;401409409326157;20226495321
 SubOficial Mayor;Leguiza Jorge Rodolfo;7977;DNI: 22662689;Hombre;Creado por;401409409326160;20226626892
@@ -2171,7 +2171,7 @@ Comisario;Bernal Gustavo Javier;8613;DNI: 25637093;Hombre;Creado por;40140940933
 Sargento Ayudante;Da Rosa Daniel Oscar;8850;DNI: 25637134;Hombre;Creado por;401409409334022;20256371341
 Sargento Ayudante;Valiente Carlos Alberto;9151;DNI: 25637142;Hombre;Creado por;401409409334035;20256371422
 Sargento Primero;Rios Marcelo Javier;9122;DNI: 25637194;Hombre;Creado por;401409409334048;20256371945
-Sargento Ayudante;Mendoza Jorge Alfredo;9416;DNI: 25637337;Hombre;Creado por;401409496716323;20256373379
+Sargento Ayudante;Mendoza Jorge Alfredo;9416;DNI: 25637332;Hombre;Creado por;401409496716323;20256373328
 Sargento Ayudante;Ojeda Emiliano Manuel;9112;DNI: 25638850;Hombre;Creado por;401409409334080;20256388503
 Sargento Ayudante;Britez Nestor Damian;9320;DNI: 25651085;Hombre;Creado por;401409409334107;20256510856
 SubOficial Principal;Godoy Oscar Eduardo;9370;DNI: 25669987;Hombre;Creado por;401409409334110;20256699878
@@ -3242,7 +3242,7 @@ Cabo;MARIANO HECTOR ORLANDO;14016;DNI: 29798433;Hombre;Creado por;40140947063371
 Sargento;Espindola Cesar Omar;11153;DNI: 29812735;Hombre;Creado por;401409495919042;20298127351
 Cabo Primero;Alonso Hugo Horacio;11934;DNI: 29813903;Hombre;Creado por;401409409355610;20298139031
 Cabo Primero;Almada Cuevas Jorge Anibal;12525;DNI: 29819684;Hombre;Creado por;401409411133725;20298196841
-Cabo Primero;Hermosi Jose Sebastian;11793;DNI: 29820770;Hombre;Creado por;401409464376087;20298201705
+Cabo Primero;Hermosi Jose Sebastian;11793;DNI: 29820770;Hombre;Creado por;401409464376087;20298207703
 Sargento Ayudante;Andrusisen Abel Angel;10328;DNI: 29830077;Hombre;Creado por;401409502196879;20298300770
 Cabo Primero;Acosta Hugo Daniel;10592;DNI: 29830947;Hombre;Creado por;401409468029424;20298309476
 Oficial Principal;Aguirre Sergio Alejandro;9928;DNI: 29840040;Hombre;Creado por;401409409355652;20298400406
@@ -3308,7 +3308,7 @@ Sargento;Zapata Carlos Enrique;7403;DNI: 29928434;Hombre;Creado por;401409409356
 Cabo;Paniagua Christian Ariel;13534;DNI: 29953493;Hombre;Creado por;401409463376464;20299534937
 Agente;QUIROGA ALEJANDRO ISMAEL;17528;DNI: 29956257;Hombre;Creado por;401409500999654;20299562574
 Cabo Primero;Pavon Edson Rodrigo;11713;DNI: 29961442;Hombre;Creado por;401409409356369;20299614426
-Sub Comisario;Espindola Mario Luciano;9699;DNI: 29979363;Hombre;Creado por;403700082846417;20299793630
+Sub Comisario;Espindola Mario Luciano;9699;DNI: 27979363;Hombre;Creado por;403700082846417;20279793634
 Cabo Primero;Acevedo Fernando Ariel;12522;DNI: 29989026;Hombre;Creado por;401409411133695;20299890261
 Oficial Principal;Chamula Pablo Javier;10183;DNI: 29989253;Hombre;Creado por;401409409356398;20299892531
 Cabo;Servian Gustavo Simon;10576;DNI: 29989286;Hombre;Creado por;401409481868769;20299892868
@@ -3770,7 +3770,7 @@ Oficial Principal;Villagra Jose Gabriel;10481;DNI: 31111536;Hombre;Creado por;40
 Sargento Ayudante;Colman Orlando Daniel;9333;DNI: 31111565;Hombre;Creado por;401409409361057;20311115651
 Oficial Auxiliar;Rivas Ramon Omar;10775;DNI: 31111593;Hombre;Creado por;401409492030366;20311115937
 Sargento Primero;Rodriguez Angel Horacio;11260;DNI: 31111710;Hombre;Creado por;401409409361099;20311117107
-Cabo;Arce Ramon Javier;13278;DNI: 31111891;Hombre;Creado por;401409463375210;20311118919
+Cabo;Arce Ramon Javier;13278;DNI: 31111891;Hombre;Creado por;401409463375210;23311118919
 Cabo Primero;Gonzalez Romeo Ezequiel;12606;DNI: 31111914;Hombre;Creado por;401409411134520;20311119142
 Sargento;Pineda Carlos Facundo;11384;DNI: 31111974;Hombre;Creado por;401409409361129;20311119746
 Oficial Auxiliar;Rios Gustavo Ruben;10313;DNI: 31119654;Hombre;Creado por;401409409361145;20311196546
@@ -4050,7 +4050,7 @@ Cabo Primero;Kucuk Ivan Javier;12055;DNI: 31911691;Hombre;Creado por;40140940936
 Cabo Primero;Meza Marcelo Anibal;10938;DNI: 31911698;Hombre;Creado por;401409409363484;20319116983
 Cabo Primero;Espindola Andres Omar;12275;DNI: 31911734;Hombre;Creado por;401409410657608;20319117343
 Cabo Primero;Robledo Sebastian Augusto;12904;DNI: 31935070;Hombre;Creado por;401409458299497;20319350706
-Oficial Principal;Suarez Hugo Alberto;11075;DNI: 31948898;Hombre;Creado por;401409487605881;20319488988
+Oficial Principal;Suarez Hugo Alberto;11075;DNI: 31984898;Hombre;Creado por;401409487605881;20319848984
 Cabo Primero;Miranda Raul Orlando;12084;DNI: 31950511;Hombre;Creado por;401409409363501;20319505114
 Cabo;MATTOS MATIAS FEDERICO;14022;DNI: 31950588;Hombre;Creado por;401409476733847;20319505882
 Sargento;Sanabria Bernardo Ariel;11276;DNI: 31950631;Hombre;Creado por;401409409363527;20319506315
@@ -5070,7 +5070,7 @@ Cabo;Noguera Nicolas Alberto;14801;DNI: 34449904;Hombre;Creado por;4014094975902
 Agente;Fedorich Daniel Enrique;13818;DNI: 34449946;Hombre;Creado por;401409487607276;20344499463
 Cabo;Jara Matias maximiliano;13161;DNI: 34450143;Hombre;Creado por;401409459674048;20344501433
 Cabo;Amarilla Cristian Alejandro;13893;DNI: 34450242;Hombre;Creado por;401409478278829;20344502421
-Cabo;Sosa Diego Alejandro;13600;DNI: 34450355;Hombre;Creado por;401409463376695;20344503559
+Cabo;Sosa Diego Alejandro;13600;DNI: 34450355;Hombre;Creado por;401409463376695;23344503559
 Agente;LEIVA ERNESTO SEBASTIAN;14434;DNI: 34450391;Hombre;Creado por;401409473358890;20344503916
 Agente;GOMEZ Walter Orlando;16065;DNI: 34450504;Hombre;Creado por;401409490144670;20344505048
 Cabo;Olivera Horacio Gaston;14459;DNI: 34450641;Hombre;Creado por;401409474197184;20344506419
@@ -5167,7 +5167,7 @@ Oficial Auxiliar;Britos Maximiliano Gerardo;12435;DNI: 34821891;Hombre;Creado po
 Agente;SVICA RUBEN DARIO;17555;DNI: 34821907;Hombre;Creado por;401409499422865;20348219074
 Cabo;Espindola Jorge Horacio;13367;DNI: 34824025;Hombre;Creado por;401409484421677;20348240251
 Cabo;Salazar Anastacio Ramon;13590;DNI: 34824026;Hombre;Creado por;401409463374402;20348240269
-Cabo;Acosta Victor David;13258;DNI: 34824060;Hombre;Creado por;401409463374503;20348240609
+Cabo;Acosta Victor David;13258;DNI: 34824060;Hombre;Creado por;401409463374503;23348240609
 Cabo Primero;Cardozo Federico luciano;13105;DNI: 34824149;Hombre;Creado por;401409459674426;20348241495
 Cabo;SANABRIA JUAN EXEQUIEL;14837;DNI: 34824162;Hombre;Creado por;401409476469153;20348241622
 Cabo;CARDOZO ROBERTO OSCAR;13938;DNI: 34824170;Hombre;Creado por;401409520170288;20348241703
@@ -5443,7 +5443,7 @@ Cabo;Hohm Marcos Andres;15020;DNI: 35494996;Hombre;Creado por;401409478447094;20
 Cabo Primero;Schonewald Jorge Elisandro;12686;DNI: 35495389;Hombre;Creado por;401409411135295;20354953898
 Agente;Schunke Marcelo Gaston;14082;DNI: 35495416;Hombre;Creado por;401409472458036;20354954169
 Agente;PIRELLI JONATAN;17258;DNI: 35495642;Hombre;Creado por;401409498963442;20354956420
-Agente;SANCHEZ CARLOS VIRGILIO;14080;DNI: 37590991;Hombre;Creado por;401409470884569;20355909914
+Agente;SANCHEZ CARLOS VIRGILIO;14080;DNI: 37590991;Hombre;Creado por;401409470884569;20375909910
 Agente;ZARZA ROBERTO EMANUEL;17334;DNI: 35694284;Hombre;Creado por;401409500721053;20356942842
 Agente;CIBILS Luis Gabriel;16006;DNI: 35694386;Hombre;Creado por;401409497590432;20356943865
 Oficial Subayudante;Rivas Eloisa Sonia;17764;DNI: 35694886;Mujer;Creado por;401409528040459;20356948861
@@ -7139,10 +7139,10 @@ Cabo Primero;Espinosa Luis Maria;12577;DNI: 30793074;Mujer;Creado por;4014094111
 Oficial Ayudante;Rolin Ramon Fernando Nicola;10255;DNI: 30793091;Hombre;Creado por;401409471384158;23307930919
 Oficial Principal;Meza Karina Elizabeth;10230;DNI: 30793328;Mujer;Creado por;401409529726686;23307933284
 Oficial Principal;Martinez Raimundo Alexis;9990;DNI: 30871689;Hombre;Creado por;401409482380493;23308716899
-Cabo;Benitez Arnaldo Andres;13293;DNI: 30935060;Hombre;Creado por;401409471413034;23309350609
+Cabo;Benitez Arnaldo Andres;13293;DNI: 30935060;Hombre;Creado por;401409471413034;20309350600
 Cabo Primero;Rodriguez Carla Romina;12907;DNI: 30935239;Mujer;Creado por;401409544989745;23309352394
 Cabo Primero;Fernandez Jose Arsenio;10880;DNI: 30935956;Hombre;Creado por;402109485256687;23309359569
-Cabo;Aquino Vanesa Soledad;13277;DNI: 30938599;Mujer;Creado por;401409463375180;23309385993
+Cabo;Aquino Vanesa Soledad;13277;DNI: 30938599;Mujer;Creado por;401409463375180;27309385999
 Cabo;Schuquel Cristian Hernan;13596;DNI: 30939030;Hombre;Creado por;401409463374460;23309390309
 Sub Comisario;Barroso Rodrigo Sebastian;10161;DNI: 30959190;Hombre;Creado por;401409484421606;23309591909
 Sargento;Gimenez Juan Carlos;10680;DNI: 31005960;Hombre;Creado por;401409409360614;23310059609
@@ -7186,7 +7186,7 @@ Cabo;Franco Mario Raul;14997;DNI: 31629645;Hombre;Creado por;401409480085703;233
 Sargento;Maidana Leandro Sebastian;11209;DNI: 31629712;Hombre;Creado por;401409479997112;23316297129
 Cabo;Gomez Marcela Mabel;13424;DNI: 31629792;Mujer;Creado por;401409469008198;23316297927
 Cabo Primero;Deljarano Juliana Veronica;12792;DNI: 31629804;Mujer;Creado por;401409458299963;23316298044
-Cabo;Gimenez Fernando David;13411;DNI: 31629880;Hombre;Creado por;401409470281111;23316298809
+Cabo;Gimenez Fernando David;13411;DNI: 31629880;Hombre;Creado por;401409470281111;20316298800
 Cabo;Minarro Diego Hernan;13494;DNI: 31730730;Hombre;Creado por;401409463375760;23317387309
 Sargento;Aranda Juan Emanuel;12735;DNI: 31759490;Hombre;Creado por;401409479132076;23317594909
 Cabo Primero;Arrua Paola Norma;11520;DNI: 31759697;Mujer;Creado por;401409471338005;23317596979
@@ -7388,7 +7388,7 @@ Oficial Subayudante;Alli Matias Nicolas;13674;DNI: 35014958;Hombre;Creado por;40
 Cabo;Dias Da Silva Cesar;13812;DNI: 35016340;Hombre;Creado por;401409476468648;23350163409
 Cabo;Centurion Fatima Agustina;16003;DNI: 35129281;Mujer;Creado por;401409537921220;23351292814
 Cabo;Silveira Diego Orlando;14084;DNI: 35328447;Hombre;Creado por;401409475426201;23353284479
-Cabo;Alderete Yanina Yanet;13265;DNI: 35385335;Mujer;Creado por;401409497590201;23353853359
+Cabo;Alderete Yanina Yanet;13265;DNI: 35385335;Mujer;Creado por;401409497590201;27353853355
 Sargento;Zuk Mirian evelin;13251;DNI: 35456618;Mujer;Creado por;401409530847611;23354566184
 Agente;VALDEZ Alejandra;15648;DNI: 35456725;Mujer;Creado por;401409496238001;23354567253
 Agente;GALEANO JOSE ROBERTO;15531;DNI: 35456980;Hombre;Creado por;401409488591550;23354569809

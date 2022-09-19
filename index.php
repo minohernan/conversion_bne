@@ -101,7 +101,7 @@ file_get_contents ( string $filename , bool $use_include_path = false , resource
       
         $apellido_formateado = str_pad($apellido_nuevo, 29, ' ', STR_PAD_RIGHT);
 
-        $periodo =  substr("0".$fila, 106, 56);
+        $periodo =  substr("0".$fila."10 0000000000000000000 ", 106, 56);
         
         $contenido .= "$inicioCaracter  $cuil_nuevo$apellido_formateado $periodo\r\n";
 
